@@ -35,7 +35,7 @@ Lista de links úteis para os discentes do curso de Engenharia da Computação (
 
 [<i class="fas fa-laptop"></i> COLABWEB-UFAM](https://colabweb.ufam.edu.br){: .btn}
 [<i class="fas fa-laptop"></i> CODEBENCH-ICOMP](http://codebench.icomp.ufam.edu.br/){: .btn}
-[<i class="fas fa-laptop"></i> EaD-CETELI/UFAM](http://www.ead.ufam.edu.br/ceteli/){: .btn}
+[<i class="fas fa-laptop"></i> EaD-CETELI/UFAM](https://eadceteli.ufam.edu.br/){: .btn}
 
 ## Portal Periódicos da CAPES
 [<i class="fas fa-newspaper"></i> PERIÓDICOS CAPES](http://www.periodicos.capes.gov.br/){: .btn}
